@@ -3,7 +3,7 @@
   "store": "RHM STORE",
   "platform": "PS4",
   "brand": "RHM ERNY",
-  "updated_at": "2026-10-06T23:34:15",
+  "updated_at": "2026-10-06T23:59:17",
   "categories": {
     "Application": [
       "Homebrew",
@@ -15,7 +15,10 @@
       "Multimédia",
       "Réseau",
       "Développement",
-      "Système"
+      "Système",
+      "Outils",
+      "Sécurité",
+      "Serveur"
     ],
     "Jeux PS4": [
       "Action",
@@ -27,11 +30,16 @@
       "FPS",
       "Plateforme",
       "Horreur",
-      "Indépendant"
+      "Indépendant",
+      "Open World",
+      "Simulation",
+      "Stratégie",
+      "Familial"
     ],
     "Émulateurs": [
       "PS1",
       "PS2",
+      "PS3",
       "PSP",
       "Nintendo",
       "Sega",
@@ -56,18 +64,54 @@
       "id": "goldhen"
     },
     {
-      "name": "Call of Duty : Vanguard",
-      "version": "1.26",
+      "name": "Minecraft",
+      "version": "3.43",
       "category": "Jeux PS4",
-      "subcategory": "FPS",
-      "description": "CUSA24041",
-      "logo": "https://www.superpsx.com/wp-content/uploads/2024/11/Call-of-Duty-Vanguard-PS4-PKG.webp",
-      "download": "https://stor2.mocha.my/verify/1791305840-bM1I-3hUz6fmKY6nZZaBjI272czkgIpXA_JdpJhJCXg/2bH8Hn8lrK59GiFFooZC6/%5BSPSX%5D-Call.of.Duty.Vanguard-CUSA24041-USA-Game-(9.00%2B)-PS4.pkg",
-      "official": "https://www.superpsx.com/dll-codvgps4-2/",
+      "subcategory": "Action",
+      "description": "CUSA00265 – EUR",
+      "logo": "https://www.superpsx.com/wp-content/uploads/2018/05/Minecraft-PS4-Cover.webp",
+      "download": "https://stor2.mocha.my/verify/1791322177-te1HzuG5xPLsrj7Ovb4IgG69AhS6BeLFpYOTL8WiTHY/-YZYA2y8-lLo8FbxKxuBF/%5BSuperPSX%5D-Minecraft.PlayStation4.Edition_CUSA00265_v1.00_%5B1.70%5D_OPOISSO893.pkg",
+      "official": "https://www.superpsx.com",
       "firmware": "9.00+",
       "enabled": true,
       "featured": true,
-      "id": "call-of-duty-vanguards"
+      "id": "call-of-duty-vanguards",
+      "downloads": [
+        {
+          "id": "file-1",
+          "label": "Jeux",
+          "kind": "Jeu",
+          "url": "https://stor2.mocha.my/verify/1791322177-te1HzuG5xPLsrj7Ovb4IgG69AhS6BeLFpYOTL8WiTHY/-YZYA2y8-lLo8FbxKxuBF/%5BSuperPSX%5D-Minecraft.PlayStation4.Edition_CUSA00265_v1.00_%5B1.70%5D_OPOISSO893.pkg",
+          "filename": "",
+          "version": "3.43",
+          "notes": "",
+          "sha256": "",
+          "bytes": 0
+        },
+        {
+          "id": "file-2",
+          "label": "Update 3.43 FIX",
+          "kind": "Update",
+          "url": "https://stor2.mocha.my/verify/1791322265-EyRM9vLUHxlSYlP9jJc-kWgHXBfhrLqVfZtspe5dGAg/pliDVIrIhwfXHvI3DIPYZ/%5BSuperPSX%5D-Minecraft_CUSA00265_v3.43_BACKPORT_%5B505-672-7xx-900-1100-1200%5D_OPOISSO893.pkg",
+          "filename": "",
+          "version": "3.43",
+          "notes": "",
+          "sha256": "",
+          "bytes": 0
+        },
+        {
+          "id": "file-3",
+          "label": "DLC FIX",
+          "kind": "DLC",
+          "url": "https://stor2.mocha.my/verify/1791322289-3SRqN-tnG50mD5HL7u1_nX5PJAw_0k-vI33M3-BN7jY/bb_jScyPn1Pdvb8nMadU4/%5BSuperPSX%5D-Minecraft.PlayStation4.Edition_CUSA00265_DLCs_PS4.rar",
+          "filename": "",
+          "version": "3.43",
+          "notes": "",
+          "sha256": "",
+          "bytes": 0
+        }
+      ],
+      "filename": ""
     }
   ]
 }
