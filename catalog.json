@@ -3,7 +3,7 @@
   "store": "RHM STORE",
   "platform": "PS4",
   "brand": "RHM ERNY",
-  "updated_at": "2026-10-06T19:03:05",
+  "updated_at": "2026-10-06T19:12:29",
   "categories": {
     "Application": [
       "Homebrew",
@@ -55,7 +55,7 @@
       "id": "goldhen"
     },
     {
-      "name": "Call of Duty : Vanguard",
+      "name": "Call of Duty : Vanguards",
       "version": "1.26",
       "category": "Jeux PS4",
       "subcategory": "FPS",
@@ -66,7 +66,7 @@
       "firmware": "9.00+",
       "enabled": true,
       "featured": true,
-      "id": "call-of-duty-vanguard"
+      "id": "call-of-duty-vanguards"
     }
   ]
 }
