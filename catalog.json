@@ -3,7 +3,7 @@
   "store": "RHM STORE",
   "platform": "PS4",
   "brand": "RHM ERNY",
-  "updated_at": "2026-10-06T19:56:06",
+  "updated_at": "2026-10-06T19:57:12",
   "categories": {
     "Application": [
       "Homebrew",
@@ -66,7 +66,7 @@
       "official": "https://www.superpsx.com/dll-codvgps4-2/",
       "firmware": "9.00+",
       "enabled": true,
-      "featured": false,
+      "featured": true,
       "id": "call-of-duty-vanguards"
     }
   ]
