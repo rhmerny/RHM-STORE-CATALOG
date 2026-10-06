@@ -3,7 +3,7 @@
   "store": "RHM STORE",
   "platform": "PS4",
   "brand": "RHM ERNY",
-  "updated_at": "2026-10-06T18:28:18",
+  "updated_at": "2026-10-06T18:32:23",
   "categories": {
     "Application": [
       "Homebrew",
@@ -55,7 +55,7 @@
       "id": "goldhen"
     },
     {
-      "name": "GoldHEN etttet",
+      "name": "GoldHENlollol",
       "version": "2.4b18",
       "category": "Application",
       "subcategory": "Homebrew",
@@ -66,7 +66,7 @@
       "firmware": "",
       "enabled": true,
       "featured": true,
-      "id": "goldhen-etttet"
+      "id": "goldhenlollol"
     }
   ]
 }
