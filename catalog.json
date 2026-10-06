@@ -3,7 +3,7 @@
   "store": "RHM STORE",
   "platform": "PS4",
   "brand": "RHM ERNY",
-  "updated_at": "2026-10-06T18:04:51",
+  "updated_at": "2026-10-06T18:20:24",
   "apps": [
     {
       "name": "GoldHEN",
@@ -17,6 +17,19 @@
       "enabled": true,
       "featured": true,
       "id": "goldhen"
+    },
+    {
+      "name": "Call of Duty : Vanguard",
+      "version": "0",
+      "category": "FPS",
+      "description": "",
+      "logo": "https://www.superpsx.com/wp-content/uploads/2024/11/Call-of-Duty-Vanguard-PS4-PKG.webp",
+      "download": "https://stor2.mocha.my/verify/1791303505-Nrag-MvsPDrbEjp24xwD9JibsuiFGeE3vW6CWbu5kZc/2bH8Hn8lrK59GiFFooZC6/%5BSPSX%5D-Call.of.Duty.Vanguard-CUSA24041-USA-Game-(9.00%2B)-PS4.pkg",
+      "official": "https://www.superpsx.com/call-of-duty-vanguard-ps4-fpkg/",
+      "firmware": "9.0+",
+      "enabled": true,
+      "featured": false,
+      "id": "call-of-duty-vanguard"
     }
   ]
 }
