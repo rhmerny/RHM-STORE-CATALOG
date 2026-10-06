@@ -3,7 +3,7 @@
   "store": "RHM STORE",
   "platform": "PS4",
   "brand": "RHM ERNY",
-  "updated_at": "2026-10-07T00:15:44",
+  "updated_at": "2026-10-07T00:16:07",
   "categories": {
     "Application": [
       "Homebrew",
@@ -93,7 +93,7 @@
           "label": "Update 3.43 FIX",
           "kind": "Update",
           "url": "https://stor2.mocha.my/verify/1791322265-EyRM9vLUHxlSYlP9jJc-kWgHXBfhrLqVfZtspe5dGAg/pliDVIrIhwfXHvI3DIPYZ/%5BSuperPSX%5D-Minecraft_CUSA00265_v3.43_BACKPORT_%5B505-672-7xx-900-1100-1200%5D_OPOISSO893.pkg",
-          "filename": "",
+          "filename": "yetett",
           "version": "3.43",
           "notes": "",
           "sha256": "",
