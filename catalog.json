@@ -1,0 +1,21 @@
+{
+  "catalog_version": "1.0",
+  "store": "RHM STORE",
+  "platform": "PS4",
+  "brand": "RHM ERNY",
+  "updated_at": "2026-10-06",
+  "apps": [
+    {
+      "id": "goldhen",
+      "name": "GoldHEN",
+      "version": "2.4b18",
+      "category": "Homebrew",
+      "description": "Homebrew Enabler pour PS4.",
+      "logo": "https://placehold.co/256x256",
+      "download": "",
+      "official": "https://github.com/GoldHEN/GoldHEN",
+      "enabled": true,
+      "featured": true
+    }
+  ]
+}
