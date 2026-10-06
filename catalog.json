@@ -1,9 +1,45 @@
 {
-  "catalog_version": "2.0",
+  "catalog_version": "3.0",
   "store": "RHM STORE",
   "platform": "PS4",
   "brand": "RHM ERNY",
-  "updated_at": "2026-10-06T18:23:58",
+  "updated_at": "2026-10-06T18:28:18",
+  "categories": {
+    "Application": [
+      "Homebrew",
+      "Utilitaire",
+      "FTP",
+      "Payload",
+      "Gestionnaire",
+      "Cheats",
+      "Multimédia",
+      "Réseau",
+      "Développement",
+      "Système"
+    ],
+    "Jeux PS4": [
+      "Action",
+      "Aventure",
+      "RPG",
+      "Course",
+      "Combat",
+      "Sport",
+      "FPS",
+      "Plateforme",
+      "Horreur",
+      "Indépendant"
+    ],
+    "Émulateurs": [
+      "PS1",
+      "PS2",
+      "PSP",
+      "Nintendo",
+      "Sega",
+      "Arcade",
+      "Retro",
+      "Multi-systèmes"
+    ]
+  },
   "apps": [
     {
       "name": "GoldHEN",
@@ -19,9 +55,10 @@
       "id": "goldhen"
     },
     {
-      "name": "GoldHEN Copy",
+      "name": "GoldHEN etttet",
       "version": "2.4b18",
-      "category": "Homebrew",
+      "category": "Application",
+      "subcategory": "Homebrew",
       "description": "Homebrew Enabler pour PS4.",
       "logo": "https://www.logic-sunrise.com/images/news/1203125/in-ps4ps5-goldhen-stage2-v104-disponible-1.png",
       "download": "https://www.logic-sunrise.com/images/news/1203125/in-ps4ps5-goldhen-stage2-v104-disponible-1.png",
@@ -29,7 +66,7 @@
       "firmware": "",
       "enabled": true,
       "featured": true,
-      "id": "goldhen-copy"
+      "id": "goldhen-etttet"
     }
   ]
 }
