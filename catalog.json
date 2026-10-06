@@ -1,21 +1,22 @@
 {
-  "catalog_version": "1.0",
+  "catalog_version": "2.0",
   "store": "RHM STORE",
   "platform": "PS4",
   "brand": "RHM ERNY",
-  "updated_at": "2026-10-06",
+  "updated_at": "2026-10-06T18:04:06",
   "apps": [
     {
-      "id": "goldhen",
       "name": "GoldHEN",
       "version": "2.4b18",
       "category": "Homebrew",
       "description": "Homebrew Enabler pour PS4.",
-      "logo": "https://placehold.co/256x256",
-      "download": "",
+      "logo": "https://www.logic-sunrise.com/images/news/1203125/in-ps4ps5-goldhen-stage2-v104-disponible-1.png",
+      "download": "https://github.com/GoldHEN/GoldHEN",
       "official": "https://github.com/GoldHEN/GoldHEN",
+      "firmware": "",
       "enabled": true,
-      "featured": true
+      "featured": true,
+      "id": "goldhen"
     }
   ]
 }
